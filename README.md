@@ -1,6 +1,6 @@
 
 # Generation SG - Junior Data Engineer Bootcamp - Interim Project
-Interim Project for the Junior Data Engineer bootcamp
+Interim Project for the Junior Data Engineer bootcamp. Done in collaboration with @vinothnk
 
 # Sustainability using renewable energy
 
